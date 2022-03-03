@@ -1,0 +1,14 @@
+/COM,ANSYS RELEASE 2022 R1           BUILD 22.1      UP20211129       09:35:33
+
+ *** WARNING ***                         CP =       1.156   TIME= 09:35:34
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =      12.156   TIME= 09:35:45
+ The DMPOPTION,MODE,NO command was specified which means file.mode does  
+ not exist.  Therefore, no element results are being written into the    
+ mode file.                                                              
+
+ *** WARNING ***                         CP =      12.344   TIME= 09:35:45
+ The third field (RSTP) on the /FCLEAN command is unknown.  The /FCLEAN  
+ command is ignored.                                                     
