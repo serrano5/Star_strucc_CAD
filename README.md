@@ -20,4 +20,4 @@ A login window may appear. Use a non-MIT Github account! The MIT Enterprise serv
 I recommend setting the access token to last until the end of the semester so you won't have to worry about it again. After logging in once, you shouldn't be prompted to login again until the token expires. You should now be able to push to/pull from the repo. 
 
 ## Git LFS
-Git large file system is being used to track changes in Solidworks and ANSYS files. Tracked file extensoins can be found in .gitattributes. If there is a file type you would like tracked by LFS, add it by `git lfs track *.file_extension` then push. Changes should be reflected in .gitattributes. 
+Git large file system is being used to track changes in Solidworks and ANSYS files. Install it using `git install lfs` or by downloading and running it from https://git-lfs.github.com/. Tracked file extensoins can be found in .gitattributes. If there is a file type you would like tracked by LFS, add it by `git lfs track *.file_extension` then push. Changes should be reflected in .gitattributes. 
