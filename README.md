@@ -9,7 +9,7 @@ Keep ANSYS projects stored in subfolders in the ANSYS directory.
 ## Command line Setup 
 (idk how to use Git Desktop but should be an easier setup than command line):  
 -navigate to where you want the files stored  
-`git clone https://github.com/jhensley99/Star_strucc_CAD.git`
+`git clone https://github.com/jhensley99/Star_strucc_CAD.git`  
 -move lcoally stored files into the proper locations and update SolidWorks and ANSYS file pointer  
 
     git add .
