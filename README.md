@@ -2,7 +2,7 @@
 ## repo for storing and tracking CAD files and ANSYS files.
 
 ## Repo Structure:  
-Keep completed/in progress assemblies in the assemblies folder. Keep all dependencies like parts and subassemblies in the dependencies folder. After cloning, add any existing assemblies and dependencies to you local folder, open all assemblies that need dependencies rerouted, and when prompted point SolidWorks to where those files are stored in the dependencies folder. Make sure to save. 
+Keep completed/in progress assemblies in the assemblies folder. Keep all dependencies like parts and subassemblies in the dependencies folder. After cloning, add any existing assemblies and dependencies to your local copy of the repo, open all assemblies that need dependencies rerouted, and when prompted point SolidWorks to where those files are stored in the dependencies folder. Make sure to save. 
 
 Keep ANSYS projects stored in subfolders in the ANSYS directory.  
 
